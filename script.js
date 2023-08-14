@@ -11,3 +11,9 @@ function active(){
   
 }
 
+function opesn()
+
+{
+    open("https://oasisinfobyte.com/");
+}
+
