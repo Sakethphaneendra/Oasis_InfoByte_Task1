@@ -67,6 +67,10 @@ display: flex;
     margin-left: -10px;
     
 }
+.cc{
+    font-size: 30px;
+    margin-bottom: -10px;
+}
 .global{
     color: white;
 }
@@ -363,6 +367,10 @@ margin-top: 1rem;
         opacity: 80%;
         margin-top: 0%;
     }
+    .cc{
+        font-size: 50px;
+        margin-bottom: -10px;
+    }
 }
 @media screen and (min-width: 2200px) 
 { #search_box{
@@ -380,4 +388,5 @@ margin-top: 1rem;
     height: 15vh;
     opacity: 10%;
 }
+
 }
